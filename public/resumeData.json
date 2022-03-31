@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Joshua Okoro",
+    "occupation": "Software Engineer and Computer Science Student",
+    "description": "Flutter and Java developer, Smart Contracts Engineer and Blood donation Volunteer",
+    "image": "20190626_120131.jpg",
+    "bio": "My name is Joshua, I'm a Software and Smart Contract Engineer. Currently an undergrad student at University of Ibadan",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "josidbobo@gmail.com",
+    "phone": "+234 8159578746",
+    "address": {
+      "street": "6, Adol-awam avenue, Mile 50",
+      "city": "Abakaliki",
+      "state": "Ebonyi State, Nigeria",
+      "zip": "123543"
+    },
+    "website": "http://www.joshuaokoroportfolio.netlify.app",
+    "resumedownload": "https://drive.google.com/drive/u/0/folders/1Ay4XA_bo6hN2qNTqy4XRJ9xm8JfrN3IA",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joshua-okoro-4b2992172/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/j_o__s_i/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/josidbobo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a very talented developer skilled in Solidity, Hardhat, flutter, React, nodeJs, Java, Firebase and ready to deliver on projects",
+    "education": [
+      {
+        "school": "University of Ibadan",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "June 2019 - November 2024",
+        "description": "Undergraduate"
+      }
+    ],
+    "work": [
+      {
+        "company": "BlockGames Nigeria",
+        "title": "Smart Contract Engineer",
+        "years": "February 2022 - Present",
+        "description": "Building decentralised applications on the Blockchain."
+      },
+      {
+        "company": "Zedux Technologies",
+        "title": "Principal Software Engineer II ",
+        "years": "June 2020 - Present",
+        "description": "Building an Educational platform to assist students with learning."
+      },
+      {
+        "company": "Hagios International school",
+        "title": "Administrative Staff",
+        "years": "Sept 2018 - May 2019",
+        "description": "Helped to build and manage their database."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "98%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "84%"
+      },
+      {
+        "name": "HTML5",
+        "level": "99%"
+      },
+      {
+        "name": "Flutter",
+        "level": "98%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Staking Smart Contract",
+        "category": "A smart contract that stakes ERC-20 tokens for a period of time and rewards users every week",
+        "image": "",
+        "url": "https://github.com/josidbobo/StakingSmartContract"
+      },
+      {
+        "title": "Covid19 Statistics App",
+        "category": "Covid19 Updates appliation built with Java, Volley, REST api",
+        "image": "Screenshot_20210330-200334_Covid19 Tracker.jpg",
+        "url": "https://github.com/josidbobo/Covid19_Situation_App"
+      },
+      {
+        "title": "Ecommerce app",
+        "category": "A mobile application for an ecommerce website",
+        "image": "Screenshot (103).png",
+        "url": "https://github.com/josidbobo/rhoda_ecommerce_app"
+      },
+      {
+        "title": "Amazon-clone website",
+        "category": "Amazon's website clone built with ReactJS, nodeJS, Firebase, Redux",
+        "image": "Screenshot (44).png",
+        "url": "https://www.github.com/josidbobo/amazon-clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Joshua is a really motivated programmer and confident individual who has what it takes to deliver on your projects.",
+        "user":"Eze Linus || 08036789318"
+      },
+      {
+        "text": "This young man, Joshua must be one of the most brilliant developers I've ever met, he may still be in the University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Chidinma Peace || 08189947640"
+      }
+    ]
+  }
+}
